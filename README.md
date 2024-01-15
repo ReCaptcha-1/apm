@@ -1,4 +1,4 @@
-![](images/hero.png)
+ "octocat"
 
 # AIR Package Manager (`apm`)
 
